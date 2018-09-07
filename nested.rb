@@ -82,7 +82,7 @@ def adding_matz
         }
      }
 
-adding_matz[:yukihiro_matsumoto] = {:known_for => "Ruby", :languages => ["LISP", "C"]}
+hash[:yukihiro_matsumoto] = {:known_for => "Ruby", :languages => ["LISP", "C"]}
 end
 
 def changing_alan
